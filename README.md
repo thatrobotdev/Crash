@@ -1,5 +1,5 @@
 # Crash
-A project created during the completion of the [Unity Certified User: Programmer](https://unity.com/products/unity-certifications/user-programmer) certification to learn an introduction to C# programming and the Unity Editor.
+A project created during the completion of the [Unity Certified User: Programmer](https://unity.com/products/unity-certifications/user-programmer) certification to learn an introduction to C# programming and the Unity Editor. Created with Unity 2022.3.12f1.
 
 ## Skills Learned
 * Introduction to Cinemachine
